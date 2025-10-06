@@ -156,4 +156,3 @@ This project is distributed under the [MIT License](LICENSE).
 
 ```
 ```
-# tiny-hiro
