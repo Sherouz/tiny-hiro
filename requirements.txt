@@ -1,0 +1,4 @@
+# Tiny Hero: Python Terminal RPG dependencies
+
+# Rich library for colorful terminal UI and effects
+rich>=14.0.0
